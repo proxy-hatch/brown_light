@@ -1,5 +1,6 @@
 # brown_light
 ### Demo Gif
+One device picks up the light sensor output on the other, and displays an on/off indicator LED light.
 ![Demo gif](resource/demo.gif)
 
 ### brown_light RX
